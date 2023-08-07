@@ -52,7 +52,7 @@ On the main page, there are list of posts, you can read full version by clicking
   Contains the views for handling different read more, create post functioins
 * ##### django_girls/blog/templates
 * Lit of pages that are rendered on each url path
-* ##### ToDo/urls.py:
+* ##### django_girls/urls.py:
   Contains URL patterns for mapping views to URLs.
 
 
